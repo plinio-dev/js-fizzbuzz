@@ -5,7 +5,13 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz. */
 
 //1 scrivere i numeri da 1 a 100
 
+
+for (var i=1; i <= 100; i++) {
+  console.log([i]);
+}
+
 //2 stampare Fizz al posto dei multipli di 3
+
 
 //3 stampare Buzz al posto dei multipli di 5
 
